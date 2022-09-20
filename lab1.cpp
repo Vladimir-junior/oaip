@@ -5,6 +5,7 @@ int main ()
 {
     double x,y,z,s,a,b;
 cout << "Введите x:";
+
 cin >> x;
 cout << "Введите y:";
 cin >> y;
@@ -15,4 +16,4 @@ cin >> z;
     s = a*b;
 cout <<"Результат s=" << s <<endl;
     return 0;
-}
+
